@@ -3,7 +3,7 @@
 
 #### 1. 安装`canvas` 包
  `npm install canvas`
- 安装失败请转到 `issues`
+ 安装失败请转到 [issues](https://github.com/Jean1024/node-canvas/issues)
  
  #### 2. 运行
  `node index.js`
