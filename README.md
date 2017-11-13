@@ -7,3 +7,6 @@
  
  #### 2. 运行
  `node index.js`
+ 
+ #### 3. 借鉴地址
+ [使用nodejs将html5 canvas base64编码图片保存为文件](http://cnodejs.org/topic/4f939c84407edba2143c12f7)
