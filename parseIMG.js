@@ -33,3 +33,4 @@ fs.readFile(__dirname + '/imgs/temp.png', function(err, squid){
 });
 app.listen(10555)
 console.log('Listen on 10555........')
+
